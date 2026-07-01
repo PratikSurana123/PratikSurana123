@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:8e2de2&text=Pratik%20Mahaveer%20Surana&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Software%20Development%20%7C%20Data%20Science%20%7C%20Business%20Technology&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:8e2de2&text=Pratik%20Mahaveer%20Surana&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Software%20Developer%20%7C%20Data-Informed%20Builder%20%7C%20Business-Technology%20Problem%20Solver&descAlignY=58&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=23&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=950&lines=Computer+Science+Student+at+McMaster+University;Software+Development+%7C+Data+Science+%7C+Business+Technology;Interested+in+SAP%2C+Enterprise+Architecture+and+Technical+Consulting;Building+practical+systems+that+connect+technology+with+business+strategy" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=23&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=980&lines=Third-Year+Computer+Science+Student+at+McMaster+University;Software+Development+%7C+Data+Science+%7C+Business+Technology;Building+practical+software+for+real+users+and+real-world+impact;Exploring+analytics%2C+enterprise+systems+and+technology-driven+business+solutions" alt="Typing SVG" />
 
 <br/>
 
@@ -26,10 +26,13 @@
 <br/><br/>
 
 <a href="https://leetcode.com/u/I5PaQvyOEi/">
-  <img src="https://img.shields.io/badge/LeetCode-Practice%20Profile-F59E0B?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/LEETCODE-PROBLEM%20SOLVING-F59E0B?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 <a href="https://www.geeksforgeeks.org/profile/pratikmaljjf?tab=activity">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  <img src="https://img.shields.io/badge/GEEKSFORGEEKS-CODING%20PRACTICE-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
+<a href="https://github.com/PratikSurana123">
+  <img src="https://img.shields.io/badge/GITHUB-PROJECTS-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -40,18 +43,18 @@
 
 My name is **Pratik Mahaveer Surana**, and I am currently in my **third year as a Computer Science student at McMaster University** with a **Minor in Business**.
 
-I am currently looking for **co-op opportunities** in **software development**, **data science** and **business-technology roles** that connect technical systems with business strategy. I am especially interested in areas such as **SAP**, **enterprise architecture**, **portfolio management**, **global asset management** and **technical consulting**.
+I am currently looking for **co-op opportunities** primarily in **software development**, along with **data science** and **business-technology roles** that connect technical systems with business strategy. My main focus is building practical, reliable and user-focused software, while also applying data analysis and business thinking to solve real-world problems.
 
-I am looking for roles where I can apply my **programming**, **analytical** and **business problem-solving** skills in a practical team environment. I am especially interested in building software that is clean, scalable and useful for real users, while also supporting better technical and business decision-making.
+I am especially interested in roles where I can develop software, work with data to support better decisions and contribute to technology teams in areas such as **enterprise systems**, **portfolio or asset management technology**, **technical consulting** and **business process improvement**.
 
 ```yaml
 Open To:
   - Software Development Co-op Roles
+  - Full-Stack Development Opportunities
   - Data Science and Analytics Roles
   - Business Technology Analyst Roles
-  - SAP and Enterprise Architecture Roles
-  - Portfolio / Global Asset Management Technology Roles
-  - Technical Consulting Opportunities
+  - Enterprise Systems and Consulting-Related Roles
+  - Portfolio / Asset Management Technology Roles
 ```
 
 ---
@@ -80,11 +83,11 @@ Open To:
 
 | Area | Focus | Details |
 |---|---|---|
-| Software Development | Full-Stack Applications | Building responsive web applications using JavaScript, TypeScript, React, Python, FastAPI and APIs. |
-| Data Science & Analytics | Data-Driven Decisions | Applying analytical thinking, datasets and reporting workflows to support business and technical decision-making. |
-| Business Technology | Strategy + Systems | Interested in roles connecting technology systems with business strategy, process improvement and enterprise platforms. |
-| SAP & Enterprise Systems | Learning + Exploration | Exploring SAP, enterprise architecture, business processes and technology-enabled organizational systems. |
-| Technical Consulting | Problem Solving | Interested in team-based roles requiring technical analysis, communication and structured solutions. |
+| Software Development | Full-Stack Applications | Building responsive and practical software using JavaScript, TypeScript, React, Python, FastAPI and API integrations. |
+| Product & User Experience | Real-World Utility | Interested in building software that is usable, scalable and meaningful for real users. |
+| Data Science & Analytics | Data-Driven Decisions | Applying analysis, reporting and structured thinking to support technical and business decision-making. |
+| Business Technology | Systems + Strategy | Exploring technology roles that connect software systems with business operations, process improvement and enterprise needs. |
+| Consulting & Enterprise Roles | Technical Problem Solving | Interested in collaborative roles involving communication, structured problem solving and technology-enabled business solutions. |
 
 ---
 
@@ -242,6 +245,10 @@ Chennai, TN, India
   <img src="https://img.shields.io/badge/GITHUB-PROJECTS-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+<br/><br/>
+
+<img src="https://leetcard.jacoblin.cool/I5PaQvyOEi?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Stats Card" />
+
 </div>
 
 ---
@@ -250,12 +257,7 @@ Chennai, TN, India
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PratikSurana123&theme=tokyonight" />
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PratikSurana123&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PratikSurana123&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PratikSurana123&theme=tokyonight" alt="GitHub Profile Details" />
 
 </div>
 
@@ -265,11 +267,7 @@ Chennai, TN, India
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PratikSurana123&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&area_color=7C3AED" />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/PratikSurana123/PratikSurana123/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PratikSurana123&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&area_color=7C3AED" alt="GitHub Contribution Graph" />
 
 </div>
 
@@ -295,7 +293,7 @@ Chennai, TN, India
 
 <div align="center">
 
-### Building practical software systems at the intersection of technology, analytics and business strategy.
+### Building practical software systems with real-world impact through development, analytics and business-aware problem solving.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:8e2de2,50:302b63,100:0f0c29"/>
 
