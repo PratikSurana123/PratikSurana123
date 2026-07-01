@@ -245,30 +245,6 @@ Chennai, TN, India
   <img src="https://img.shields.io/badge/GITHUB-PROJECTS-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br/><br/>
-
-<img src="https://leetcard.jacoblin.cool/I5PaQvyOEi?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Stats Card" />
-
-</div>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PratikSurana123&theme=tokyonight" alt="GitHub Profile Details" />
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PratikSurana123&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&area_color=7C3AED" alt="GitHub Contribution Graph" />
-
 </div>
 
 ---
