@@ -151,18 +151,6 @@ Developed a TypeScript and React web app with FastAPI integration to analyze swa
 
 ## Experience
 
-### Business Analyst and Software Developer — Lumiwoods  
-**June 2025 – September 2026**  
-Hamilton, ON, Canada
-
-- Built and optimized a full-stack web platform using Python and JavaScript to improve product visibility, support data-driven decisions and organize business information for reporting.
-- Conducted market research and competitor analysis, preparing datasets and insights to support business strategy, risk awareness and process improvement opportunities.
-- Collected and analyzed feedback from 50+ users, translating business needs into actionable improvements that increased adoption by 20% and strengthened internal reporting decisions.
-
-`Python` `JavaScript` `Business Analysis` `Market Research` `Data Analysis` `Reporting`
-
----
-
 ### Software Developer Co-op Intern — Fondation StaBL Foundation  
 **May 2026 – August 2026**  
 Hamilton, ON, Canada
@@ -172,6 +160,18 @@ Hamilton, ON, Canada
 - Improved research-driven language tooling by implementing interactive editor features, debugging functional UI logic and improving code generation workflows for a browser-based educational platform.
 
 `Elm` `Functional Programming` `GraphicSVG` `GitHub` `UI Logic` `Code Visualization`
+
+---
+
+### Business Analyst and Software Developer — Lumiwoods  
+**June 2025 – September 2026**  
+Hamilton, ON, Canada
+
+- Built and optimized a full-stack web platform using Python and JavaScript to improve product visibility, support data-driven decisions and organize business information for reporting.
+- Conducted market research and competitor analysis, preparing datasets and insights to support business strategy, risk awareness and process improvement opportunities.
+- Collected and analyzed feedback from 50+ users, translating business needs into actionable improvements that increased adoption by 20% and strengthened internal reporting decisions.
+
+`Python` `JavaScript` `Business Analysis` `Market Research` `Data Analysis` `Reporting`
 
 ---
 
