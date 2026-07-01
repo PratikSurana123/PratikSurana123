@@ -1,26 +1,26 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,45:0F766E,100:164E63&text=Pratik%20Mahaveer%20Surana&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Software%20Development%20%7C%20Data%20Science%20%7C%20Business%20Technology&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:8e2de2&text=Pratik%20Mahaveer%20Surana&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Software%20Development%20%7C%20Data%20Science%20%7C%20Business%20Technology&descAlignY=58&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=23&duration=2800&pause=900&color=5EEAD4&center=true&vCenter=true&width=950&lines=Computer+Science+Student+at+McMaster+University;Software+Development+%7C+Data+Science+%7C+Business+Technology;Interested+in+SAP%2C+Enterprise+Architecture+and+Technical+Consulting;Building+practical+systems+that+connect+technology+with+business+strategy" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=23&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=950&lines=Computer+Science+Student+at+McMaster+University;Software+Development+%7C+Data+Science+%7C+Business+Technology;Interested+in+SAP%2C+Enterprise+Architecture+and+Technical+Consulting;Building+practical+systems+that+connect+technology+with+business+strategy" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/McMaster%20University-Computer%20Science-0F766E?style=flat-square&logo=academia&logoColor=white" />
-<img src="https://img.shields.io/badge/Minor-Business-155E75?style=flat-square&logo=googleanalytics&logoColor=white" />
-<img src="https://img.shields.io/badge/Year-Third%20Year-0E7490?style=flat-square&logo=bookstack&logoColor=white" />
-<img src="https://img.shields.io/badge/Location-Hamilton%2C%20ON-164E63?style=flat-square&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/McMaster%20University-Computer%20Science-7C3AED?style=flat-square&logo=academia&logoColor=white" />
+<img src="https://img.shields.io/badge/Minor-Business-4F46E5?style=flat-square&logo=googleanalytics&logoColor=white" />
+<img src="https://img.shields.io/badge/Year-Third%20Year-6366F1?style=flat-square&logo=bookstack&logoColor=white" />
+<img src="https://img.shields.io/badge/Location-Hamilton%2C%20ON-8B5CF6?style=flat-square&logo=googlemaps&logoColor=white" />
 
 <br/><br/>
 
 <a href="mailto:pratikmahaveer@gmail.com">
-  <img src="https://img.shields.io/badge/Email-pratikmahaveer%40gmail.com-0F766E?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-pratikmahaveer%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/pratikmahaveer/">
-  <img src="https://img.shields.io/badge/LinkedIn-pratikmahaveer-155E75?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-pratikmahaveer-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/PratikSurana123">
-  <img src="https://img.shields.io/badge/GitHub-PratikSurana123-020617?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-PratikSurana123-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/LeetCode-Practice%20Profile-F59E0B?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 <a href="https://www.geeksforgeeks.org/profile/pratikmaljjf?tab=activity">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Profile-15803D?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </a>
 
 </div>
@@ -42,7 +42,7 @@ My name is **Pratik Mahaveer Surana**, and I am currently in my **third year as 
 
 I am currently looking for **co-op opportunities** in **software development**, **data science** and **business-technology roles** that connect technical systems with business strategy. I am especially interested in areas such as **SAP**, **enterprise architecture**, **portfolio management**, **global asset management** and **technical consulting**.
 
-I am looking for roles where I can apply my **programming**, **analytical** and **business problem-solving** skills in a practical team environment.
+I am looking for roles where I can apply my **programming**, **analytical** and **business problem-solving** skills in a practical team environment. I am especially interested in building software that is clean, scalable and useful for real users, while also supporting better technical and business decision-making.
 
 ```yaml
 Open To:
@@ -84,7 +84,7 @@ Open To:
 | Data Science & Analytics | Data-Driven Decisions | Applying analytical thinking, datasets and reporting workflows to support business and technical decision-making. |
 | Business Technology | Strategy + Systems | Interested in roles connecting technology systems with business strategy, process improvement and enterprise platforms. |
 | SAP & Enterprise Systems | Learning + Exploration | Exploring SAP, enterprise architecture, business processes and technology-enabled organizational systems. |
-| Technical Consulting | Problem Solving | Interested in client-facing and team-based roles that require technical analysis, communication and structured solutions. |
+| Technical Consulting | Problem Solving | Interested in team-based roles requiring technical analysis, communication and structured solutions. |
 
 ---
 
@@ -220,11 +220,11 @@ Chennai, TN, India
 
 ### IBM / Alison
 
-<img src="https://img.shields.io/badge/IBM%20Blockchain-Platform%20as%20a%20Service-155E75?style=for-the-badge&logo=ibm&logoColor=white" />
+<img src="https://img.shields.io/badge/IBM%20Blockchain-Platform%20as%20a%20Service-4F46E5?style=for-the-badge&logo=ibm&logoColor=white" />
 
 ### Google Cloud Skills Boost
 
-<img src="https://img.shields.io/badge/Google%20Cloud-Introduction%20to%20Image%20Generation-0F766E?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Cloud-Introduction%20to%20Image%20Generation-7C3AED?style=for-the-badge&logo=googlecloud&logoColor=white" />
 
 ---
 
@@ -232,11 +232,15 @@ Chennai, TN, India
 
 <div align="center">
 
-| Platform | Profile |
-|---|---|
-| <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-F59E0B?style=for-the-badge&logo=leetcode&logoColor=black" /> | [View Profile](https://leetcode.com/u/I5PaQvyOEi/) |
-| <img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Practice-15803D?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /> | [View Profile](https://www.geeksforgeeks.org/profile/pratikmaljjf?tab=activity) |
-| <img src="https://img.shields.io/badge/GitHub-Projects-020617?style=for-the-badge&logo=github&logoColor=white" /> | [View GitHub](https://github.com/PratikSurana123) |
+<a href="https://leetcode.com/u/I5PaQvyOEi/">
+  <img src="https://img.shields.io/badge/LEETCODE-PROBLEM%20SOLVING-F59E0B?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="https://www.geeksforgeeks.org/profile/pratikmaljjf?tab=activity">
+  <img src="https://img.shields.io/badge/GEEKSFORGEEKS-CODING%20PRACTICE-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
+<a href="https://github.com/PratikSurana123">
+  <img src="https://img.shields.io/badge/GITHUB-PROJECTS-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
@@ -246,11 +250,12 @@ Chennai, TN, India
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PratikSurana123&show_icons=true&hide_title=false&hide_rank=false&theme=dark&hide_border=true&bg_color=020617&title_color=5EEAD4&icon_color=2DD4BF&text_color=E5E7EB" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PratikSurana123&theme=tokyonight" />
 
 <br/><br/>
 
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikSurana123&layout=compact&theme=dark&hide_border=true&bg_color=020617&title_color=5EEAD4&text_color=E5E7EB" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PratikSurana123&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PratikSurana123&theme=tokyonight" />
 
 </div>
 
@@ -260,7 +265,11 @@ Chennai, TN, India
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PratikSurana123&theme=react-dark&hide_border=true&bg_color=020617&color=5EEAD4&line=14B8A6&point=CCFBF1&area=true&area_color=0F766E" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PratikSurana123&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&area_color=7C3AED" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/PratikSurana123/PratikSurana123/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
@@ -271,13 +280,13 @@ Chennai, TN, India
 <div align="center">
 
 <a href="mailto:pratikmahaveer@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-pratikmahaveer%40gmail.com-0F766E?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-pratikmahaveer%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/pratikmahaveer/">
-  <img src="https://img.shields.io/badge/LinkedIn-Pratik%20Mahaveer%20Surana-155E75?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Pratik%20Mahaveer%20Surana-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/PratikSurana123">
-  <img src="https://img.shields.io/badge/GitHub-PratikSurana123-020617?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-PratikSurana123-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -288,6 +297,6 @@ Chennai, TN, India
 
 ### Building practical software systems at the intersection of technology, analytics and business strategy.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:164E63,45:0F766E,100:020617"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:8e2de2,50:302b63,100:0f0c29"/>
 
 </div>
