@@ -151,7 +151,7 @@ Developed a TypeScript and React web app with FastAPI integration to analyze swa
 
 ## Experience
 
-### Software Developer Co-op Intern — Fondation StaBL Foundation  
+### Software Developer Co-op Intern - Fondation StaBL Foundation  
 **May 2026 – August 2026**  
 Hamilton, ON, Canada
 
@@ -163,7 +163,7 @@ Hamilton, ON, Canada
 
 ---
 
-### Business Analyst and Software Developer — Lumiwoods  
+### Business Analyst and Software Developer - Lumiwoods  
 **June 2025 – September 2026**  
 Hamilton, ON, Canada
 
@@ -175,7 +175,7 @@ Hamilton, ON, Canada
 
 ---
 
-### Software Developer — ClubHive  
+### Software Developer - ClubHive  
 **May 2025 – August 2025**  
 Hamilton, ON, Canada
 
@@ -187,7 +187,7 @@ Hamilton, ON, Canada
 
 ---
 
-### Software and Conversational Design Intern — Mangopea Private Limited  
+### Software and Conversational Design Intern - Mangopea Private Limited  
 **April 2023 – June 2023**  
 Chennai, TN, India
 
