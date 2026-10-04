@@ -91,6 +91,20 @@ Open To:
 
 ---
 
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=PratikSurana123&show_icons=true&hide_title=true&hide_rank=true&theme=transparent" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/github/commit-activity/y/PratikSurana123/LeetCode?style=for-the-badge&label=GitHub%20Contributions&color=7C3AED" />
+
+</div>
+
+---
+
 ## Featured Projects
 
 <details>
